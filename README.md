@@ -19,7 +19,13 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&locale=en" alt="maheshrijal" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshrijal&" alt="maheshrijal" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&locale=en" alt="maheshrijal" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshrijal&" alt="maheshrijal" />
+    </td>
+  </tr>
+</table>
