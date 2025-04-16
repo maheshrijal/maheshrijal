@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&locale=en" alt="maheshrijal" />
+      <img align="center" src="https://readmestats.maheshrjl.vercel.app/api?username=maheshrijal&show_icons=true&locale=en" alt="maheshrijal" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshrijal&" alt="maheshrijal" />
+      <img align="center" src="https://readmestreak.maheshrjl.vercel.app/?user=maheshrijal&" alt="maheshrijal" />
     </td>
   </tr>
 </table>
