@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://readmestats.maheshrjl.vercel.app/api?username=maheshrijal&show_icons=true&locale=en" alt="maheshrijal" />
+      <img src="https://zerolag-readme-streak-stats.vercel.app?user=maheshrijal&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
     <td>
-      <img align="center" src="https://readmestreak.maheshrjl.vercel.app/?user=maheshrijal&" alt="maheshrijal" />
+      <img src="https://zerolag-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&theme=transparent&hide_border=true" alt="maheshrijal GitHub Stats" />
     </td>
   </tr>
 </table>
