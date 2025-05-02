@@ -17,10 +17,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Duplicate current browser tab](https://maheshrijal.com/til/duplicate-current-browser-tab/)
 - [Using IaC to Manage DNS Records](https://maheshrijal.com/blog/using-iac-to-manage-dns-records/)
+- [Difference between &#39;#!/bin/bash&#39; and &#39;#!/usr/bin/env bash&#39;](https://maheshrijal.com/til/shebang/)
 - [Trying the Zed code editor on Windows](https://maheshrijal.com/blog/trying-the-zed-code-editor-on-windows/)
-- [Quick and easy directory navigation using CDPATH](https://maheshrijal.com/blog/quick-and-easy-directory-navigation-using-cdpath/)
-- [Technology Terms](https://maheshrijal.com/blog/technology-terms/)
+- [Fetch linux version recrusively in kubernetes pod](https://maheshrijal.com/til/fetch-linux-version-k8s-pod/)
 <!-- BLOG-POST-LIST:END -->
 
 <table>
