@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">I liberate linux processes from their misery. </h3>
+# Hi I'm Mahesh <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=maheshrijal&label=Profile%20views&color=0e75b6&style=flat" alt="maheshrijal" /> </p>
+I am a DevOps & Infrastructure engineer who enjoys building scalable, secure and scalable cloud platforms. I enjoy solving complex infrastructure problems and creating systems that work quietly in the background. I prefer to work with GitOps and Infrastructure as Code in my daily workflow.
 
-- 🌱 I’m currently learning **Kubernetes**
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/maheshrijal/)
+[![Spotify Badge](https://img.shields.io/badge/Spotify-informational?style=flat&logo=spotify&logoColor=white&color=1DB954)](https://open.spotify.com/user/591dzzoqhy8qdivx4jtpizsc2?si=d3b0860fcaf4465c)
+<img src="https://komarev.com/ghpvc/?username=maheshrijal&label=Profile%20views&color=1f6feb" alt="maheshrijal" />
 
-- 👨‍💻 All of my projects are available [here](https://github.com/maheshrijal?tab=repositories)
-
-- 📝 I ocassionally write articles on [maheshrijal.com](https://maheshrijal.com)
-
-- 💬 Ask me about **DevOps, Infra, Kubernetes, Linux**
-
-- 📫 How to reach me [maheshrijal.com/contact](https://maheshrijal.com/contact)
-
-- ⚡ Fun Quote: Never let your enemy know your next move, especially if it's turning the router off and on again.
+# 📊 Stats
+<br>
+<div align=center>
+ <a href="https://github.com/maheshrijal">
+  <img width='400px' src="https://zerolag-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&count_private=true&theme=transparent" alt="Mahesh's GitHub Stats" />
+</a>
+<a href="https://github.com/maheshrijal">
+  <img width='425px' src="https://zerolag-readme-streak-stats.vercel.app?user=maheshrijal&theme=transparent&bg_color=20232A" />
+  </a>  
+  </div>
+<br>
+<div align=center>
+ <img src="/github-metrics.svg" alt="Metrics" width="400" margin-right='50'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/maheshrijal">
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,14 +30,3 @@
 - [Difference between &#39;#!/bin/bash&#39; and &#39;#!/usr/bin/env bash&#39;](https://maheshrijal.com/til/shebang/)
 - [Trying the Zed code editor on Windows](https://maheshrijal.com/blog/trying-the-zed-code-editor-on-windows/)
 <!-- BLOG-POST-LIST:END -->
-
-<table>
-  <tr>
-    <td>
-      <img src="https://zerolag-readme-streak-stats.vercel.app?user=maheshrijal&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://zerolag-readme-stats.vercel.app/api?username=maheshrijal&show_icons=true&theme=transparent&hide_border=true" alt="maheshrijal GitHub Stats" />
-    </td>
-  </tr>
-</table>
