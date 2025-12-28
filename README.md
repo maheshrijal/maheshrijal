@@ -30,6 +30,6 @@ I am a DevOps & Infrastructure engineer who enjoys building scalable, secure and
 - [Horizontal Scroll on MacOS](https://maheshrijal.com/til/horizontal-scroll-on-macos/)
 - [Duplicate current browser tab](https://maheshrijal.com/til/duplicate-current-browser-tab/)
 - [Using IaC to Manage DNS Records](https://maheshrijal.com/blog/using-iac-to-manage-dns-records/)
-- [Difference between &#39;#!/bin/bash&#39; and &#39;#!/usr/bin/env bash&#39;](https://maheshrijal.com/til/shebang/)
+- [Bash Shebang: /bin/bash vs env bash](https://maheshrijal.com/til/shebang/)
 - [Trying the Zed code editor on Windows](https://maheshrijal.com/blog/trying-the-zed-code-editor-on-windows/)
 <!-- BLOG-POST-LIST:END -->
