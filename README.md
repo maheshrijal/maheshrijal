@@ -27,9 +27,9 @@ I am a DevOps & Infrastructure engineer who enjoys building scalable, secure and
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding with Agents](https://maheshrijal.com/blog/coding-with-agents/)
 - [Horizontal Scroll on MacOS](https://maheshrijal.com/til/horizontal-scroll-on-macos/)
 - [Duplicate current browser tab](https://maheshrijal.com/til/duplicate-current-browser-tab/)
 - [Using IaC to Manage DNS Records](https://maheshrijal.com/blog/using-iac-to-manage-dns-records/)
 - [Bash Shebang: /bin/bash vs env bash](https://maheshrijal.com/til/shebang/)
-- [Trying the Zed code editor on Windows](https://maheshrijal.com/blog/trying-the-zed-code-editor-on-windows/)
 <!-- BLOG-POST-LIST:END -->
