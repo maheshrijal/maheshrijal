@@ -23,17 +23,9 @@ jobs:
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: maheshrijal
-          template: classic
-          base: header
-          base_hireable: yes
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          plugin_languages: yes
-          plugin_languages_ignored: php, html, css, scss, powershell, batchfile
-          plugin_languages_limit: 7
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_notable_skipped: sonarr/sonarr
