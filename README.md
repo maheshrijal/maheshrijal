@@ -1,4 +1,4 @@
-# Hi I'm Mahesh <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" alt="waving hand" width='75' height='75'/>
+# Hi I'm Mahesh 👋
 
 I am a DevOps & Infrastructure engineer who enjoys building scalable, secure and scalable cloud platforms. I enjoy solving complex infrastructure problems and creating systems that work quietly in the background. I prefer to work with GitOps and Infrastructure as Code in my daily workflow.
 
