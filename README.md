@@ -1,7 +1,5 @@
 ## Hi, I'm Mahesh 👋
 
-DevOps, infrastructure, and a little curiosity.
-
 ### Current projects
 
 - **[mysq](https://github.com/maheshrijal/mysq)**: MySQL performance diagnostics in your terminal.
